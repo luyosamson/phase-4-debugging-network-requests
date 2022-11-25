@@ -18,7 +18,7 @@ class MoviesController < ApplicationController
       :director, :description, :poster_url,
        :category, :discount, :female_director")
 
-
+       
   end
 
 end
